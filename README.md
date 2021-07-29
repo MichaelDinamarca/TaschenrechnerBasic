@@ -1,20 +1,20 @@
-TaschenrechnerBasic
+# TaschenrechnerBasic
 Test Projekt für Promotive GmbH
 
-Autor: *Michael Dinamarca*
+### Autor: *Michael Dinamarca*
 
-Anforderungen:
-_'Java' Version 8 
-_'Maven' Version 2
+## Anforderungen:
+- `Java` Version 8 
+- `Maven` Version 2
 
-Projekt bauen
+## Projekt bauen
 ```
 mvn clean package
 ````
 
-Projekt ausführen
+## Projekt ausführen
 entweder
 ```
 Java -jar target/taschenrechner.jar
 ```
-oder die 'taschenrechner.jar' Datei im 'target' Ordner mit Doppelklick ausführen
+oder die `taschenrechner.jar` Datei im `target` Ordner mit Doppelklick ausführen
